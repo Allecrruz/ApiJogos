@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controller",
+    "\\Controller\\V1",
+    "\\Entities",
+    "\\Repositories",
+    "\\Services",
+    "\\ViewModel"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": true
+}
